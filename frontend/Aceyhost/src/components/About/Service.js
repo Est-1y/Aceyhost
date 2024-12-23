@@ -3,12 +3,11 @@ import ApartmentIcon from "@mui/icons-material/Apartment";
 import GroupIcon from "@mui/icons-material/Group";
 
 const Service = (props) => {
-  // TODO: use the right icons for each service.
 
   return (
     <div>
       <div className="max-w-[1440px] ml-16 mx-auto py-10  flex-col justify-between text-center md:flex-row relative">
-        {/* property-card-container */}
+        {/* property-card */}
         <div className="grid md:grid-cols-2 gap-6 md:gap-10 py-10">
           <div>
             {/* section label */}

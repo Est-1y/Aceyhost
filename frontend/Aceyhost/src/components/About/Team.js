@@ -8,7 +8,6 @@ import Umpass from "../../assets/Umpass.jpg";
 const Team = (props) => {
   return (
     <div className="Credibility w-full max-w-[1440px] my-20 ">
-      {/* section label */}
       <div className="pb-12 text-center">
         <h3 className="text-purple-700"> {props.header} </h3>
         <h5 className="pt-4"> {props.text} </h5>
